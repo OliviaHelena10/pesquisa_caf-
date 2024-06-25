@@ -1,4 +1,7 @@
-# Coffee Preferences Patterns
+# Coffee Preferences Patterns ☕
+
+
+![image](https://github.com/OliviaHelena10/pesquisa_caf-/assets/163002226/8c6f4436-cffc-4fb7-b770-1df0cfa90d0a)
 
 
 ## Context
@@ -36,7 +39,9 @@ Investigate and discover common coffee preferences.
 
 The dataset was obtained at Kaggle, after downloading I started to clean and manipulate all the data with python and some librarys like Pandas, Numpy and Matplotlib to ease visualization and get better results.
 
-## ETL - Extract, Transform and Load
+## ETL 
+![image](https://github.com/OliviaHelena10/pesquisa_caf-/assets/163002226/5a6a5be3-ba29-4fd4-97ec-7486458de98b)
+
 
 ###  Extract:
 
