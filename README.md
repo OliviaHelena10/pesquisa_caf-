@@ -54,6 +54,21 @@ Availabel at: https://www.kaggle.com/datasets/joebeachcapital/coffee-taste-test
    
 The data was very dirty so it wouldn't be efficient to use her without a proper change to prepare it for graphics and visualization.
 
+First of all I imported some useful libraries for data manipulation - such as Pandas, Numpy and Matplotlib - and started to explore 
+the collected data to have a better comprehension including finding inconsistent data. After some researches I found some unusable columns
+that had lots of missing values and others that weren't relevant so I dicarded them. Afterwards, some informations were united as one, to solve 
+this issue I separeted them as lists of values - later this will cause me some trouble when i try to use Power Bi.
+
+In order to fill some missing data without drastically changing my future results, I made some visualizations with box plot to have a deph 
+understanding of some of my columns, then i discovered the bests values to fill in. Finally I saved my data in a csv to use on Power Bi,
+but then I found out that made a really big mistake, I had lists as column values and when I tried to use the visualizations it was pratically
+impossible to use Power Bi tools. After a bit of headache trying to solve this problem with the microsoft app, I concluded that it was not possible
+for me to do what I needed there. 
+
+Back to VsCode I created some loops to scroll through the list and the occurence of each item, it successfully worked so I saved my outcomes as 
+new tables, this way there will be no problems with Power Bi.
+
+
 
 ###  Load:
 
