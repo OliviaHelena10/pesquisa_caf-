@@ -73,7 +73,8 @@ You can accompany my results right here: https://github.com/OliviaHelena10/pesqu
 
 #### Star Schema: 
 When we talk about manunipulation and visualization of data is important to use a star schema, this way you can separate your entire dataset in smaller 
-parts that may help you have a better understanding of all the information you will use in your graphics, dashboards, reports and others.
+parts that may help you have a better understanding of all the information you will use in your graphics, dashboards, reports and others. Right bellow you can 
+see my star schema
 
 ![star-schema-coffee_survey](https://github.com/user-attachments/assets/1342b0dc-cbcf-4a4f-9106-3b9acf701374)
 
