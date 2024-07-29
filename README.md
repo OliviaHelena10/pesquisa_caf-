@@ -65,14 +65,28 @@ but then I found out that made a really big mistake, I had lists as column value
 impossible to use Power Bi tools. After a bit of headache trying to solve this problem with the microsoft app, I concluded that it was not possible
 for me to do what I needed there. 
 
-Back to VsCode I created some loops to scroll through the list and the occurence of each item, it successfully worked so I saved my outcomes as 
+Back to VsCode I created some loops to scroll through the lists and  count the occurence of each item, it successfully worked so I saved my outcomes as 
 new tables, this way there will be no problems with Power Bi.
+
+You can accompany my results right here: https://github.com/OliviaHelena10/pesquisa_caf-/blob/main/pesquisa_cafe.ipynb
+                                          ----    Please be aware that the comments in this jupyter notebook are written in portuguese.
+
+#### Star Schema: 
+When we talk about manunipulation and visualization of data is important to use a star schema, this way you can separate your entire dataset in smaller 
+parts that may help you have a better understanding of all the information you will use in your graphics, dashboards, reports and others.
+
+![star-schema-coffee_survey](https://github.com/user-attachments/assets/1342b0dc-cbcf-4a4f-9106-3b9acf701374)
 
 
 
 ###  Load:
 
-After cleaning the data it's important to load the updated version, only then we can start to use visualization tools
+After cleaning the data it's important to load the updated version, only then we can start to use visualization tools.
 
 
 ## Visualization
+
+After treating my data correctly I started with Power Bi to make more dynamic insights. After that, I had to do some transformations to have a most appropriate data for Power Bi.
+With everything in order I started to create some graphics, my biggest challenge was that there was only 2 quantitative columns the other ones were qualitative so it was a bit hard to think of ways to display my data to get useful insights. Even though my difficulties, I still managed to make a report, but I'm not satisfied with it.
+
+You can see my results right here: https://github.com/OliviaHelena10/pesquisa_caf-/blob/main/pesquisa_cafe_data_viz.pdf
